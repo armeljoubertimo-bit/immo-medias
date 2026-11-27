@@ -1,0 +1,65 @@
+{
+  "format": [
+    1080,
+    1350
+  ],
+  "marge": 100,
+  "palettes": [
+    {
+      "nom": "Noir & or",
+      "primaire": "#121416",
+      "accent": "#C9A24B",
+      "accent_texte": "#121416",
+      "clair": "#FFFFFF",
+      "fond_doux": "#F3F1EC",
+      "texte": "#121416",
+      "texte_doux": "#5A5A5A"
+    },
+    {
+      "nom": "Vert sapin & jaune",
+      "primaire": "#0F3D2E",
+      "accent": "#F2C230",
+      "accent_texte": "#0F3D2E",
+      "clair": "#FFFFFF",
+      "fond_doux": "#EEF3EF",
+      "texte": "#0F3D2E",
+      "texte_doux": "#4F6359"
+    },
+    {
+      "nom": "Ardoise & bleu ciel",
+      "primaire": "#1B2433",
+      "accent": "#2F9BFF",
+      "accent_texte": "#FFFFFF",
+      "clair": "#FFFFFF",
+      "fond_doux": "#EEF2F7",
+      "texte": "#1B2433",
+      "texte_doux": "#56617A"
+    }
+  ],
+  "polices": {
+    "titre": "Poppins-Bold.ttf",
+    "titre_graisse": "Bold",
+    "affiche": "Poppins-Bold.ttf",
+    "texte": "Inter-Regular.otf",
+    "gras": "Inter-Bold.otf"
+  },
+  "etiquette": "Conseil immo · Marseille",
+  "logo": "",
+  "logo_taille": 0,
+  "signature": "Armel Joubert",
+  "cta": {
+    "etiquette": "Vous pensez vendre ?",
+    "titre": "Estimation offerte",
+    "texte": "Je vous donne la valeur réelle de votre bien à Marseille, gratuitement et sans engagement.",
+    "bouton": "Écrivez ESTIMATION en message privé"
+  },
+  "photos": {
+    "dossier": "~/immo-social/photos",
+    "couverture": true,
+    "couverture_dossier": "apparts"
+  },
+  "styles": [
+    "uni",
+    "photo"
+  ]
+}
