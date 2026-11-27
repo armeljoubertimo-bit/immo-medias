@@ -44,8 +44,8 @@
     "gras": "Inter-Bold.otf"
   },
   "etiquette": "Conseil immo · Marseille",
-  "logo": "",
-  "logo_taille": 0,
+  "logo": "logo.png",
+  "logo_taille": 118,
   "signature": "Armel Joubert",
   "cta": {
     "etiquette": "Vous pensez vendre ?",

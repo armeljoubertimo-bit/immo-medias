@@ -1,0 +1,20 @@
+[style: uni]
+# La question du dimanche
+Vous choisissez quoi ? *3 dilemmes* d'acheteurs
+---
+Dilemme 01
+## Balcon ou pièce en plus ?
+Prendre l'air chez soi, ou gagner un bureau ou une chambre.
+---
+Dilemme 02
+## Dernier étage ou rez-de-jardin ?
+La lumière et la vue, ou un extérieur de plain-pied.
+---
+Dilemme 03
+## Refait à neuf ou à rénover ?
+Poser ses valises tout de suite, ou tout refaire à son goût.
+---
+Et vous ?
+## Répondez en commentaire
+1, 2 ou 3 : dites-moi ce que vous choisiriez.
+> Connaître les attentes des acheteurs aide à bien présenter un bien.
