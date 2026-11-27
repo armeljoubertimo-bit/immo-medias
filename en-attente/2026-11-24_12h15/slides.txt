@@ -1,0 +1,20 @@
+[style: photo]
+# Votre annonce
+Un *texte d'annonce* qui donne envie de visiter
+---
+Conseil 01
+## Un titre précis
+Type de bien, quartier et atout principal : l'acheteur doit comprendre en une ligne ce que vous vendez.
+---
+Conseil 02
+## Les atouts en premier
+Lumière, étage, extérieur, calme : commencez par ce qui fait la différence, pas par la liste des pièces.
+---
+Conseil 03
+## Des informations exactes
+Surface, charges, classe énergie, étage : des données justes évitent les visites inutiles et les déceptions.
+---
+Conseil 04
+## Parler du quartier
+Transports, commerces, écoles : l'acheteur choisit aussi une vie de quartier.
+> Je rédige l'annonce et je la diffuse pour vous.

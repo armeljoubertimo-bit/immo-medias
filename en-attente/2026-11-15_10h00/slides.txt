@@ -1,0 +1,16 @@
+[style: photo]
+# La question du dimanche
+*Vendre d'abord* ou *acheter d'abord* ?
+---
+Option 01
+## Vendre avant d'acheter
+Vous connaissez votre budget exact et vous négociez sereinement. Il faut en revanche prévoir où loger entre les deux.
+---
+Option 02
+## Acheter avant de vendre
+Vous prenez le temps de trouver le bon logement. Mais il faut pouvoir financer la période où vous avez deux biens.
+---
+Le bon réflexe
+## Commencer par une estimation
+Dans les deux cas, tout part de la valeur réelle de votre bien actuel.
+> Et vous, que feriez-vous ? Dites-le-moi en commentaire.

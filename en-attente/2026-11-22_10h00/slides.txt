@@ -1,0 +1,15 @@
+[style: photo]
+# Le quiz du dimanche
+*Vrai ou faux :* 3 questions sur la vente immobilière
+---
+Vrai ou faux ?
+## L'acheteur peut se rétracter après le compromis
+> VRAI. Il dispose de 10 jours pour se rétracter, sans avoir à se justifier.
+---
+Vrai ou faux ?
+## La plus-value sur votre résidence principale est imposée
+> FAUX. La vente de la résidence principale est exonérée d'impôt sur la plus-value.
+---
+Vrai ou faux ?
+## La classe énergie doit figurer dans l'annonce
+> VRAI. Le DPE doit être affiché dès la mise en vente.
